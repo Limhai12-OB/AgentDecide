@@ -1,3 +1,4 @@
+import utils.session
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QVBoxLayout, QHBoxLayout,
     QPushButton, QSlider, QGroupBox, QTextEdit
